@@ -1,6 +1,6 @@
 
 html { 
-  background: url(/images/catanback.jpg) no-repeat center center fixed; 
+  background: url(https://raw.githubusercontent.com/xqft1/catan/master/images/catanback.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
